@@ -7,6 +7,7 @@
 ## 技術スタック  
 - Python  
 - Django  
+- Vue.js
 - ShangriLa Anime API Server  
 - HTML,CSS  
 <br>

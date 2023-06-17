@@ -5,9 +5,8 @@
 詳細は後ほど...  
 
 ## 技術スタック  
-- Python  
-- Django  
-- Vue.js
+- Ruby
+- Rails
 - ShangriLa Anime API Server  
 - HTML,CSS  
 <br>

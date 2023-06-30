@@ -5,8 +5,8 @@
 詳細は後ほど...  
 
 ## 技術スタック  
-- Ruby
-- Rails
+- Python
+- Django
 - ShangriLa Anime API Server  
 - HTML,CSS  
 <br>
@@ -16,5 +16,3 @@
 - アニメに対してのコメント機能(感想など)
 - アニメに対してのlike機能  
 - ランキング  
-
-
